@@ -38,7 +38,7 @@
 <img align="center" height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=umeshkaushik-21122000&bg_color=071A2C&icon_color=4194FD&show_icons=true&count_private=true&theme=tokyonight&line_height=27&text_color=FFFFFF&layout=compact&langs_count=8&card_width=320" alt="Umesh's github stats"/>
 </a>
 <a href="https://github.com/umeshkaushik-21122000/umeshkaushik-21122000">
-<img align="center" height=200 src="https://streak-stats.demolab.com/?user=umeshkaushik-21122000&theme=tokyonight" alt="Umesh's github stats"/>
+<img align="center" height=200 src="https://streak-stats.demolab.com/?user=umeshkaushik-21122000&theme=tokyonight " alt="Umesh's github stats"/>
 </a>
 
 
