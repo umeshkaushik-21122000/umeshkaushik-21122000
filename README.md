@@ -1,6 +1,7 @@
 ## Fancy seeing you here!
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+Umesh;Full+Stack+Web+Developer)](https://git.io/typing-svg)
 
-I am Umesh kaushik, a Full Stack developer from Delhi. I am a tech enthusiast & an open-source advocate. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
+ I am a tech enthusiast & an open-source advocate. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-umeshkaushik-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/umesh-kaushik21/)](https://www.linkedin.com/in/umesh-kaushik21/)
 [![Gmail Badge](https://img.shields.io/badge/-umeshkaushik-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kaushikumesh21@gmail.com)](mailto:kaushikumesh21@gmail.com)
@@ -37,7 +38,7 @@ I am Umesh kaushik, a Full Stack developer from Delhi. I am a tech enthusiast & 
 <img align="center" height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=umeshkaushik-21122000&bg_color=071A2C&icon_color=4194FD&show_icons=true&count_private=true&theme=tokyonight&line_height=27&text_color=FFFFFF&layout=compact&langs_count=8&card_width=320" alt="Umesh's github stats"/>
 </a>
 <a href="https://github.com/umeshkaushik-21122000/umeshkaushik-21122000">
-<img align="center" height=200 src="https://streak-stats.demolab.com/?user=umeshkaushik-21122000&theme=tokyonight&" alt="Umesh's github stats"/>
+<img align="center" height=200 src="https://streak-stats.demolab.com/?user=umeshkaushik-21122000&theme=tokyonight&starting_year=2024" alt="Umesh's github stats"/>
 </a>
 
 
